@@ -2,10 +2,11 @@
 
 #GET http://localhost:3000/register
 
-POST http://localhost:3000/register
+
+POST http://localhost:4000/register
 Content-Type:  application/json
 
 {
-    "email": "oo@jdjfk.dn",
-    "password": "fdf"
+    "email": "aaaaaaa678@33.c",
+    "password": "12345678"
 }
